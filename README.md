@@ -2,6 +2,7 @@
 ## NISOT :shirt:
 
 [![Build Status](https://travis-ci.com/guvense/Nisot.svg?branch=master)](https://travis-ci.com/guvense/Nisot)
+![GitHub](https://img.shields.io/github/license/guvense/Nisot)
 
 Nisot is a go library 
 
