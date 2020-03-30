@@ -1,6 +1,8 @@
 
 ## NISOT :shirt:
 
+[![Build Status](https://travis-ci.com/guvense/Nisot.svg?branch=master)](https://travis-ci.com/guvense/Nisot)
+
 Nisot is a go library 
 
 Usage
