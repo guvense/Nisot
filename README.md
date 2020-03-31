@@ -1,12 +1,12 @@
 
-## NISOT :shirt:
+# NISOT :shirt:
 
 [![Build Status](https://travis-ci.com/guvense/Nisot.svg?branch=master)](https://travis-ci.com/guvense/Nisot)
 ![GitHub](https://img.shields.io/github/license/guvense/Nisot)
 
 Nisot is a go library 
 
-Usage
+## Parser Usage
 
 Read file and parse it 
 
@@ -25,3 +25,25 @@ Change key value in file empty string for same file
 ```
 p.Replace("")
 ```
+
+## Repeat Useage
+
+Generate Value
+
+```
+s := repeater.Value("val")
+```
+Repeat n times
+
+```
+repeated := s.Repeat(4)
+```
+
+Calculate Repeated Word
+
+```
+count := repeater.Value("foobarfoobarfoobar")
+```
+
+
+
