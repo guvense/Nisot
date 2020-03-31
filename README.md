@@ -43,7 +43,8 @@ repeated := s.Repeat(4)
 Calculate Repeated Word
 
 ```
-count := repeater.Value("foobarfoobarfoobar")
+val := repeater.Value("foobarfoobarfoobar")
+z := val.Count()
 ```
 
 
