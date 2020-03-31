@@ -24,6 +24,7 @@ Change key value in file empty string for same file
 
 ```
 p.Replace("")
+p.Replace("foo.txt")
 ```
 
 ## Repeat Usage
