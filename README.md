@@ -26,7 +26,7 @@ Change key value in file empty string for same file
 p.Replace("")
 ```
 
-## Repeat Useage
+## Repeat Usage
 
 Generate Value
 
