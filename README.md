@@ -51,7 +51,7 @@ z := val.Count()
 
 Sum of url response bodies
 
-Cretating a Page struct
+Creating a Page struct
 ```
 page := Page{}
 ```
